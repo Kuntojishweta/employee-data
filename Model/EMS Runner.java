@@ -1,12 +1,4 @@
 
-/**
- * @author Dan Birmingham >> dgbirm@gmail.com
- * Start Date: May 11, 2020
- * Last Updated: 
- * Description: Runner class to do some prelim testing showing the implementation
- * of the offline model
- *
- */
 public class EMSRunner {
 	public static void main(String[] args) {
 		//Note: Department and Employee variable assignment should
