@@ -1,15 +1,7 @@
 /**
  * 
  */
-package com.dannyB.EMS.model;
 
-/**
- * @author Dan Birmingham >> dgbirm@gmail.com
- * Start Date: May 11, 2020
- * Last Updated: 
- * Description:
- *
- */
 public class DepAlreadyExistsException extends Exception {
 
 	
